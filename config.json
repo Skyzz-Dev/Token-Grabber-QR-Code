@@ -1,5 +1,5 @@
 {
-    "botToken": "MTAzNzM4NTc3NDgwMDMxODU2Ng.G7fpV9.JpvSXrAJ-NU_H8uVfSWZ-OWdhJy98n75KEGF1w",
+    "botToken": "",
     "logs_channel_id": "1041009800441499678",
 
     "prefix": ">",
@@ -9,5 +9,5 @@
     "role_name": "ROLE-NAME-HERE",
 
     "mass_dm": 0,
-    "message": "you have win nitro"
+    "message": ""
 }
