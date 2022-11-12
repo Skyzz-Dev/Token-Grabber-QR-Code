@@ -1,0 +1,13 @@
+{
+    "botToken": "MTAzNzM4NTc3NDgwMDMxODU2Ng.G7fpV9.JpvSXrAJ-NU_H8uVfSWZ-OWdhJy98n75KEGF1w",
+    "logs_channel_id": "1041009800441499678",
+
+    "prefix": ">",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 0,
+    "message": "you have win nitro"
+}
